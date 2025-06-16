@@ -9,7 +9,7 @@ tienda_1.csv
 tienda_2.csv
 tienda_3.csv
 tienda_4.csv
-Cada archivo contiene información sobre los productos vendidos, precios, costos de envío, fechas de compra, vendedores, lugares de compra, calificaciones, métodos de pago, cantidad de cuotas y coordenadas geográficas.
+Cada archivo contiene información sobre los productos vendidos, precios, costos de envío, fechas de compra, vendedores, lugares de compra, calificaciones, métodos de pago, cantidad de cuotas.
 
 # Análisis
 El análisis realizado en este proyecto incluye los siguientes puntos clave:
@@ -21,4 +21,4 @@ Productos más y menos vendidos: Identificación de los productos con mayor y me
 Envío promedio por tienda: Cálculo y comparación del costo promedio de envío por tienda.
 
 # Autor
-Creator-NotJoelC
+JoelC-Creator
